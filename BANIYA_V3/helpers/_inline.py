@@ -155,7 +155,7 @@ class Inline:
                 [
                     self.ikb(
                         text=lang["source"],
-                        url="https://t.me/ArcBotz",
+                        url="https://t.me/THE_EXPOSE_NET",
                         style=enums.ButtonStyle.DANGER,
                         icon_custom_emoji_id=5983580310292402968,
                     )
