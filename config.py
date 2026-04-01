@@ -42,7 +42,7 @@ class Config:
         ]
         self.DEFAULT_THUMB = getenv("DEFAULT_THUMB", "https://te.legra.ph/file/3e40a408286d4eda24191.jpg")
         self.PING_IMG = getenv("PING_IMG", "https://graph.org/file/435ed435b4f3a081851f0-2fd05cdcf10fc95637.jpg")
-        self.START_IMG = getenv("START_IMG", "https://graph.org/file/d7204bb54382e6906f212-4cd99af24b3a2a2c2a.jpg")
+        self.START_IMG = getenv("START_IMG", "https://files.catbox.moe/k3zf5t.jpg")
         self.API_KEY = getenv("API_KEY")  # @FallenApiBot send cmd /apikey
         self.API_URL = getenv("API_URL", "https://api.deadlinetech.site")
 
